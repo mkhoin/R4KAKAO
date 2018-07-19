@@ -1,0 +1,6 @@
+Package: R4KAKAO
+Type: Package
+Title: use KAKAO REST API in R
+Version: 0.1.0
+Author: newstars a.k.a JANY
+License: MIT License
